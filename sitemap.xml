@@ -3,12 +3,76 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://me.sarathsp.com/about/</loc>
+    <lastmod>2019-02-22T01:09:48+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://me.sarathsp.com/projects/python-2factor-client/</loc>
+    <lastmod>2019-02-22T01:09:41+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://me.sarathsp.com/posts/understanding-descrete-time-crystals/</loc>
+    <lastmod>2019-02-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://me.sarathsp.com/posts/helloworld/</loc>
+    <lastmod>2019-02-21T18:52:44+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://me.sarathsp.com/tags/explanation/</loc>
+    <lastmod>2019-02-22T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://me.sarathsp.com/tags/physics/</loc>
+    <lastmod>2019-02-22T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://me.sarathsp.com/posts/</loc>
+    <lastmod>2019-02-22T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://me.sarathsp.com/projects/</loc>
+    <lastmod>2019-02-22T01:09:41+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://me.sarathsp.com/tags/quantum-computing/</loc>
+    <lastmod>2019-02-22T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://me.sarathsp.com/</loc>
+    <lastmod>2019-02-22T01:09:48+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://me.sarathsp.com/tags/science/</loc>
+    <lastmod>2019-02-22T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://me.sarathsp.com/tags/</loc>
+    <lastmod>2019-02-22T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://me.sarathsp.com/tags/time/</loc>
+    <lastmod>2019-02-22T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
